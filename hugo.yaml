@@ -38,10 +38,10 @@ defaultContentLanguage: en
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: false
   tableOfContents:
     startLevel: 2
-    endLevel: 6
+    endLevel: 5
     ordered: false
 
 # At least HTML and JSON are required for the main HTML content and
@@ -156,7 +156,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:
