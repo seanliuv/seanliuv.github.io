@@ -26,11 +26,11 @@ summary: 'I am a passionate software engineer with x years of working experience
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "seanliuvv@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/seanliuv"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -42,7 +42,7 @@ socialLinks:
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://x.com/seanliuv"
 
 - name: Facebook
   icon: "fab fa-facebook"
